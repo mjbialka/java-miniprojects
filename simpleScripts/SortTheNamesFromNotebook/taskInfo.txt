@@ -1,1 +1,2 @@
-
+Task 1.
+posegreguj imiona i nazwiska w dwóch kolumnach, a nastepnie zamień ich kolejność [nazwisko, imie]
